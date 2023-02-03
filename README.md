@@ -21,6 +21,6 @@ I'm an engineer with a huge passion for technology and innovation, with problem-
 
 I have experience in the electronic area of electric vehicle design, sensor management with Arduino and Raspberry PI, automation and control (Sliding Mode Control), performance of robust embedded systems for process automation industrial (CompactRIO), and knowledge about Permanent Magnet Synchronous Machines (PMSM) and controller unit for motorcycles and electric vehicles of the Kelly Controllers brand.
 
-
+My degree project consisted of the design and implementation of a Vehicle Control System (VCS) model oriented to a prototype of competitive solar four-wheeled car with Independent Rear Wheel Drive (IRWD) and Front-Wheel Steering (FWS).
 
 I have solid knowledge of programming and development tools such as NI LabVIEW, Python, C, C++, JavaScript, Matlab/Simulink, LaTex, Arduino, Processing, Proteus, Multisim, PSpice and MPLABX.
